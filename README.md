@@ -2,7 +2,9 @@
 
 Shortcut is an Android application (built in Java) allowing its user to find a hairdresser in a geographic area (geolocation or city choice)
 
-<img src="shortcut_logo.png" width="250">
+<p align="center"> 
+<img src="shortcut_logo.png" width="300">
+</p>
 
 ## Getting Started
 
