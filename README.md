@@ -1,6 +1,6 @@
 # ShortCut
 
-Shortcut is an Android application (built in Java) allowing its user to find a hairdresser in a geographic area (geolocation or city choice)
+Shortcut is an Android application (built in Java) allowing its user to find a hairdresser in a geographic area (geolocation or city choice).
 
 <p align="center"> 
 <img src="shortcut_logo.png" width="300">
